@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.assign1 {
+  background-color: cadetblue;
+  padding: 10px;
+  border: 5px solid rgb(167, 69, 69);
+  ;
+  margin: 20px;
+  border-radius: 20px;
+}
+
+.assing2 {
+  padding: 10px;
+  border: 5px solid rgb(72, 69, 167);
+  margin: 20px;
+  background-color: rgb(142, 142, 219);
+}
+
